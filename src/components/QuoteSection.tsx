@@ -7,7 +7,7 @@ export default function QuoteSection() {
                         “
                     </span>
                     <span className="block pl-6 md:pl-12">
-                        For those who value consistency over claims, <br />
+                        For those who value consistency over claims,
                         and craftsmanship over compromise.
                     </span>
                 </p>
