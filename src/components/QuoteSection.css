@@ -1,0 +1,15 @@
+.quote-section {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  padding: 4rem 1rem;
+  background-color: white;
+}
+
+/* Mobile devices: set height to 50vh */
+@media (max-width: 640px) {
+  .quote-section {
+    height: 50vh;
+  }
+}
